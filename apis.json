@@ -1,0 +1,64 @@
+{
+    "name": "I Wanna Go There",
+    "description": "Iwannagothere.com is a travel guide for Coolpackers. Coolpackers are travelers that love design, architecture, vintage shops, music and trendy places.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/824-i-wanna-go-there.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "marketplaces",
+        "photos",
+        "places",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/i-wanna-go-there\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "I Wanna Go There",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/824-i-wanna-go-there.jpg",
+            "humanURL": "http:\/\/iwannagothere.com\/api\/index.html",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/i-wanna-go-there-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.iwannagothere.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/IWannaGoThere"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/i-wanna-go-there"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/i-wanna-go-there"
+        },
+        {
+            "type": "Email",
+            "url": "hello@iwannagothere.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/iwannagothere"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/iwannagothere.com\/api\/index.html"
+        }
+    ]
+}
